@@ -29,5 +29,4 @@ This project analyzes historical trader data in combination with Bitcoin's Fear 
 
 ---
 
-Prepared for the Junior Data Scientist – Trader Behavior Insights application.
 
